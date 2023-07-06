@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """This module contain an annotated function to return a floor of a float"""
 import math
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Define a function to return combined sum of given ints and floats"""
 from typing import List, Union
 

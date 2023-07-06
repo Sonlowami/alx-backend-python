@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Contain a function to return the first index of an iterable"""
 from typing import Any, Sequence, Union
 

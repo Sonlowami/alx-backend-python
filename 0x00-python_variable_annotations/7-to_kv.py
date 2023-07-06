@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Contain a string that returns a tuple of a string ant int or float"""
 from typing import Tuple, Union
 

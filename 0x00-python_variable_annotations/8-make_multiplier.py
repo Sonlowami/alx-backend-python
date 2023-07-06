@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Conatain a function that returns a callable"""
 from typing import Callable
 

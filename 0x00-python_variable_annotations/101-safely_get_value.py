@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """This module contain a function that returns a key from a dictionary"""
 from typing import Union, Mapping, Any
 

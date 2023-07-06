@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """This module contain a function to return a sum of floats in a list
 of them"""
 from typing import List

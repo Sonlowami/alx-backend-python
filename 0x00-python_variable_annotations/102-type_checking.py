@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Creates a function that amplifies a tupple"""
 from typing import Tuple, List
 
