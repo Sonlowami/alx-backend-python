@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""My First Asynchronous module in python"""
+"""My First Asynchronous module in python. In this module, we create a
+random async operation"""
 import asyncio
 import random
 

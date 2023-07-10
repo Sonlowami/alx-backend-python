@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Measuring the runtime"""
+"""This module contain a function that computes the average time one
+random asynchronous operation take to end"""
 
 import time
 import asyncio
@@ -11,5 +12,5 @@ def measure_time(n: int, delay_time: int) -> float:
 
     initial_time: float = time.perf_counter()
     asyncio.run(wait_n(n, delay_time))
-    final_time = time.perf_counter() - initial_time
+    final_time: float = time.perf_counter() - initial_time
     return final_time / n
